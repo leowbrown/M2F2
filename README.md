@@ -23,7 +23,7 @@
 
 - Variable naming to be in camel casing.
 
-    eg.  thisIsMyFunction
+                  thisIsMyFunction
 
 - Variable names should be relevant and descriptive.
 - When possible, Variables will be given a value on the same line of declaration.
