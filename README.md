@@ -39,12 +39,12 @@
 
 - If Statements will have a space after to allow breathing room, the condition will be indented from the "if" and the closing curly brace will have its own line
 
-  Bad Example:    
+  ####Bad Example:**    
                   if(hour < 18){\
                   greeting = "Good day";}
 
 
-  Good Example    
+  ####Good Example:**    
                   if (hour < 18) {\
                       greeting = "Good day";\
                   }
