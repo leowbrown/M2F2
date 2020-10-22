@@ -11,10 +11,10 @@
 
 - End Each line with a ';'.
 - When separated by semicolons, multiple short statements on one line are allowed.
-- Allow one " " before and after operators  
+- Allow one " " before and after operators
+- Correct Use of indention.
 
-
-#### Correct Use of indention:
+  #### Good Example:
 
   function myFunction() {
       document.getElementById("demo1").innerHTML = "Hello Dolly!";
