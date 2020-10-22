@@ -15,7 +15,7 @@
 - Correct Use of indention.
 
   function myFunction() {\
-    document.getElementById("demo1").innerHTML = "Hello Dolly!";\
+      document.getElementById("demo1").innerHTML = "Hello Dolly!";\
   }
 
 
@@ -41,12 +41,12 @@
 
   Bad Example:    
                   if(hour < 18){\
-                  greeting = "Good day";}\
+                  greeting = "Good day";}
 
 
   Good Example    
                   if (hour < 18) {\
-                    greeting = "Good day";\
+                      greeting = "Good day";\
                   }
 
 
