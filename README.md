@@ -37,6 +37,7 @@
 
 ## Conditional
 
+- If more than 3 possible statements are made, Use the Switch Statement.
 - If Statements will have a space after to allow breathing room, the condition will be indented from the "if" and the closing curly brace will have its own line
 
   #### Bad Example:    
@@ -48,6 +49,3 @@
                   if (hour < 18) {
                     greeting = "Good day";
                   }
-
-
-- If more than 3 possible statements are made, Use the Switch Statement.
