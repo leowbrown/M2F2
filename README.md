@@ -15,10 +15,8 @@
 - Correct Use of indention.
 
 
-  function myFunction() {
-
-    document.getElementById("demo1").innerHTML = "Hello Dolly!";
-
+  function myFunction() {\
+    document.getElementById("demo1").innerHTML = "Hello Dolly!";\
   }
 
 
@@ -43,14 +41,13 @@
 - If Statements will have a space after to allow breathing room, the condition will be indented from the "if" and the closing curly brace will have its own line
 
   Bad Example:    
-                  if(hour < 18){
-                  greeting = "Good day";}
-                
+                  if(hour < 18){\
+                  greeting = "Good day";}\
+
 
   Good Example    
-                  if (hour < 18) {
-                    greeting = "Good day";
-
+                  if (hour < 18) {\
+                    greeting = "Good day";\
                   }
 
 
