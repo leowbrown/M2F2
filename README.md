@@ -14,8 +14,6 @@
 - Allow one " " before and after operators
 - Correct Use of indention.
 
-  #### Good Example:
-
                   function myFunction() {
                       document.getElementById("demo1").innerHTML = "Hello Dolly!";
                   }
