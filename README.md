@@ -16,9 +16,9 @@
 
   #### Good Example:
 
-  function myFunction() {
-      document.getElementById("demo1").innerHTML = "Hello Dolly!";
-  }
+                  function myFunction() {
+                      document.getElementById("demo1").innerHTML = "Hello Dolly!";
+                  }
 
 
 ## Variables
