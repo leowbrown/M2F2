@@ -1,0 +1,23 @@
+$primary: #e7A545;
+$secondary: #502e2D;
+$success: #e4584b;
+
+// Custom.scss
+// Option A: Include all of Bootstrap
+
+@import "../bootstrap-4.5.3/scss/bootstrap.scss";
+
+*, Body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+Body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.side-nav {
+  height: 100vh;
+}
